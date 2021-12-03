@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-at this point the two branches have diverged, with different changes made in each.
-*****To merge the changes made in experimental into master, run
+at this point the two branches have diverged, with different changes made in each.<br>
+*****To merge the changes made in experimental into master, run <br>
  $ git merge experimental
 
 
