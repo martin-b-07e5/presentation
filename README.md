@@ -1,16 +1,30 @@
 # presentation
 - 👋 Hi, I’m @martin-b--07e5
-- 👀 I’m interested in ... OOA
-- 🌱 I’m currently learning ... python +django ...
+- 👀 I’m interested in ...
+- 🌱 I learned a little about Python+Django ...
+- 🌱 I’m currently learning ... Java, JS+React, testing ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: <a href="https://tinyurl.com/yc8c53kw" title="email" target="_blank">by email</a>
 
-at this point the two branches have diverged, with different changes made in each.<br>
-*****To merge the changes made in experimental into master, run <br>
- $ git merge experimental
+# 👇 portfolio
+--------------------------------------------------
+# Python + Django
+https://github.com/martin-b-07e5/blog1
 
+# Python + Django (submitted)
+https://github.com/martin-b-07e5/blog_g6
 
-<!---
-martin-b-07e5/martin-b-07e5 is a ✨ SPECIAL ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# App Usage
+- README.md
+- requirements.txt
+--------------------------------------------------
+# Java exercises
+- https://github.com/martin-b-07e5/java2022/tree/main/src/main/java
+--------------------------------------------------
+# JS practice
+- 🚀 https://martin-b-07e5.github.io/tp1
+- 🚀 https://martin-b-07e5.github.io/tp2
+
+# React practice
+- 👷 https://martin-b-07e5.github.io/tp4-react
+--------------------------------------------------
